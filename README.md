@@ -1,12 +1,10 @@
-👋 Hi, I’m @dayraarocho
+👋🏻 Hi, I’m @dayraarocho
 
-👀 I’m interested in Proggraming
+👩🏻‍💻 I’m interested in Computer Programing.
 
-🌱 I’m currently learning JS and doing a Harvard Course CS50.
+🌱 I’m currently taking a Udemy class on modern HTML5, CSS3 and web desig.
 
-💞️ I’m looking to collaborate on projects and continue to learn and grow in the tech field.
-
-📫 How to reach me dayra.arocho18@gmail.com
+💞️ I’m looking to continue to learn and grow in the tech field.
 
 
 <!--
