@@ -2,9 +2,11 @@
 
 👩🏻‍💻 I’m interested in Computer Programing.
 
-🌱 I’m currently taking a Udemy class on modern HTML5, CSS3 and web desig.
+🌱 I’m currently taking a College class on HTML, CSS and web desig. As well ad compeltimg the freecodecamp Responsive Web Design course. I also have some Udemy courses Im looking forward to completing as well.
 
-💞️ I’m looking to continue to learn and grow in the tech field.
+I also have been learning some Swift on my own by wathcing Youtube course. 
+
+💞️ I’m looking to continue to learn and grow in the Programing world.
 
 
 <!--
