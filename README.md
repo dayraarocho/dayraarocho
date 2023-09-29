@@ -1,13 +1,12 @@
-👋🏻 Hi, I’m @dayraarocho
+👋🏻 Hi, I'm @dayraarocho.
 
-👩🏻‍💻 I’m interested in Computer Programing.
+👩🏻‍💻 I have a strong passion for computer programming.
 
-🌱 I’m currently taking a College class on HTML, CSS and web desig. As well ad compeltimg the freecodecamp Responsive Web Design course. I also have some Udemy courses Im looking forward to completing as well.
+🌱 Currently, I'm enrolled in a college program focused on Web Development & Design. Additionally, I'm actively progressing through the freecodecamp Responsive Web Design course. I'm excited about completing Udemy courses covering HTML, CSS, and JavaScript in the near future.
 
-I also have been learning some Swift on my own by wathcing Youtube course. 
+🚀 I'm also self-learning Swift through YouTube courses, expanding my programming horizons.
 
-💞️ I’m looking to continue to learn and grow in the Programing world.
-
+💡 My journey in the programming world is all about continuous learning and growth. Looking forward to what's ahead!
 
 <!--
 **dayraarocho/dayraarocho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
